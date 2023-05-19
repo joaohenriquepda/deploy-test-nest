@@ -1,0 +1,9 @@
+
+// Postgres cluster deploy-test-nest-db created
+//   Username:    postgres
+//   Password:    JEPQXut0flpZgqo
+//   Hostname:    deploy-test-nest-db.internal
+//   Flycast:     fdaa:2:3541:0:1::2
+//   Proxy port:  5432
+//   Postgres port:  5433
+//   Connection string: postgres://postgres:JEPQXut0flpZgqo@deploy-test-nest-db.flycast:5432
